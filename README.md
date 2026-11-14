@@ -2,10 +2,7 @@
 
 A full-stack web application for recording, managing, and tracking daily blood glucose readings. Sweety provides a simple dashboard where users can securely manage their readings and view daily and month-to-date reports.
 
-## Live Demo
-
-- **Frontend:** https://sweety-blood-glucose-tracker-murex.vercel.app
-- **Backend:** Add your Render backend URL here.
+## Live Demo  https://sweety-blood-glucose-tracker-murex.vercel.app
 
 ## Features
 
